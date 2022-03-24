@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ant-exercises-sklearn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ant-learn-python-100P" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ant-learn-python-concurrent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ant-learn-python-zero" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ant-learn-recsys" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ant-learn-visualization" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ant-livebroadcast-publish" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ant-python-challenge-100p" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ant-python-excel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ant-python-fans-projects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ant-python-opendemand" vcs="Git" />
+  </component>
+</project>
